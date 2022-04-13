@@ -1,10 +1,10 @@
 import React from "react";
-import State from './components/State'
+import State1 from './components/State1'
 
 export default function App(){
   return(
     <div>
-      <State />
+      <State1 />
     </div>
   )
 }
