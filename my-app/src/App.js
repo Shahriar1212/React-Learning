@@ -1,10 +1,10 @@
 import React from "react";
-import State1 from './components/State1'
+import USE_STATE from "./components/USE_STATE/index";
 
 export default function App(){
   return(
     <div>
-      <State1 />
+      <USE_STATE />
     </div>
   )
 }
